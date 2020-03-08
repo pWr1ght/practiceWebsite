@@ -148,6 +148,7 @@ footer{
     color: #ffffff;
     background-color: #ee8844;
     text-align: center;
+    width: 100%;
 }
 
 aside#sidebar {
@@ -162,6 +163,13 @@ article#main-col {
     margin-top: 10px;
 }
 
-.members {
-    margin: auto
+.col p {
+    text-align: center;
 }
+.card.ui {
+    text-align: center;
+    align-items: center;
+}
+
+
+
